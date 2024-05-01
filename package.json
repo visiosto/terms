@@ -1,0 +1,24 @@
+{
+  "name": "@visiosto/terms",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Visiosto's terms and conditions",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js?(on),md}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visiosto/terms.git"
+  },
+  "author": "Visiosto oy <visiosto@visiosto.fi> (https://www.visiosto.fi)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/visiosto/terms/issues"
+  },
+  "homepage": "https://github.com/visiosto/terms#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-packagejson": "^2.5.0"
+  }
+}

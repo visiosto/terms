@@ -13,6 +13,12 @@
   <a href="https://www.visiosto.fi">Visiosto’s</a> terms and conditions
 </p>
 
+<p align="center">
+  <a href="https://github.com/visiosto/terms/actions/workflows/main.yml">
+    <img src="https://github.com/visiosto/terms/actions/workflows/main.yml/badge.svg" alt="Main workflow">
+  </a>
+</p>
+
 ## What is this repository?
 
 [Visiosto/terms](https://github.com/visiosto/terms) is a repository for

@@ -2,9 +2,9 @@
   <br />
   <a href="https://www.visiosto.fi">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/visiosto/terms/blob/develop/.github/logo-light.svg?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/visiosto/terms/blob/develop/.github/logo-dark.svg?raw=true">
-      <img alt="Visiosto" src="https://github.com/visiosto/terms/blob/develop/.github/logo-dark.svg?raw=true" width="350" style="max-width: 100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/visiosto/terms/blob/main/.github/logo-light.svg?raw=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/visiosto/terms/blob/main/.github/logo-dark.svg?raw=true">
+      <img alt="Visiosto" src="https://github.com/visiosto/terms/blob/main/.github/logo-dark.svg?raw=true" width="350" style="max-width: 100%;">
     </picture>
   </a>
 </p>

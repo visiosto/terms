@@ -15,7 +15,8 @@
   "author": "Visiosto oy <visiosto@visiosto.fi> (https://www.visiosto.fi)",
   "type": "module",
   "scripts": {
-    "format": "prettier --write \"**/*.{js?(on),md}\""
+    "format": "prettier --write \"**/*.{js?(on),md,yml}\"",
+    "lint": "prettier --check \"**/*.{js?(on),md,yml}\""
   },
   "devDependencies": {
     "prettier": "^3.2.5",

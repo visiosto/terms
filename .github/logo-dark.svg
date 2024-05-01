@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 495.7 125" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 495.7 125" xml:space="preserve">
 <style type="text/css">
-  path{fill:#000000;}
+  path{fill:#141617;}
 </style>
 <g>
 	<path d="M62.9,123.9C29,123.9,1.5,96.3,1.5,62.5S29,1.1,62.9,1.1c33.8,0,61.4,27.5,61.4,61.4S96.7,123.9,62.9,123.9z M62.9,8.1

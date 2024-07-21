@@ -19,7 +19,7 @@ tavalla. Näistä voi lukea lisää kunkin alikäsittelijän verkkosivuilla.
 
 | Nimi                               | Kuvaus käsittelystä                                         |                                                                                                                     Käsittelyn sijainti |
 | :--------------------------------- | :---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------: |
-| Amazon Web Services, Inc.          | Kehitys, infrastruktuuri ja datan säilytys                  |                                                                                                                                      EU |
+| Amazon Web Services, Inc.          | Kehitys, infrastruktuuri ja datan säilytys                  |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Cloudflare, Inc.                   | Infrastruktuuri                                             | EU ja Yhdysvallat. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Gandi SAS                          | Verkkotunnukset ja infrastruktuuri                          | EU ja Yhdysvallat. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | GitHub, Inc.                       | Sisäinen datan säilytys                                     |                                                                                                                             Yhdysvallat |

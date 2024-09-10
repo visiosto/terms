@@ -4,7 +4,7 @@ url = "tietosuoja/alikasittelijat"
 description = "Tällä sivulla on tietoa kolmansista osapuolista, jotka käsittelevät henkilötietoja Visioston puolesta."
 +++
 
-_Päivitetty 21. heinäkuuta 2024._
+_Päivitetty 10. syyskuuta 2024._
 
 Visiosto käyttää alla lueteltuja kolmansia osapuolia (kukin _alikäsittelijä_)
 Visioston asiakkaiden henkilötietojen käsittelyyn, palveluiden tarjoamiseen ja
@@ -25,6 +25,7 @@ tavalla. Näistä voi lukea lisää kunkin alikäsittelijän verkkosivuilla.
 | GitHub, Inc.                       | Sisäinen datan säilytys                                     |                                                                                                                             Yhdysvallat |
 | Google LLC                         | Kehitys, infrastruktuuri ja datan säilytys                  |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | _Google Analytics_                 | _Valinnainen tuotteiden analytiikka haluaville asiakkaille_ |                                                                                                                     _EU ja Yhdysvallat_ |
+| Hetzner Online GmbH                | Kehitys, infrastruktuuri ja datan säilytys                  |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Liikenne-&nbsp;ja viestintävirasto | Verkkotunnukset ja infrastruktuuri                          |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Louhi Net Oy                       | Infrastruktuuri                                             |                                                                                                                                      EU |
 | Planeetta Internet Oy              | Infrastruktuuri                                             |                                                                                                                                      EU |

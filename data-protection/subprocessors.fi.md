@@ -4,7 +4,7 @@ url = "tietosuoja/alikasittelijat"
 description = "Tällä sivulla on tietoa kolmansista osapuolista, jotka käsittelevät henkilötietoja Visioston puolesta."
 +++
 
-_Päivitetty 10. syyskuuta 2024._
+_Päivitetty 26. helmikuuta 2025._
 
 Visiosto käyttää alla lueteltuja kolmansia osapuolia (kukin _alikäsittelijä_)
 Visioston asiakkaiden henkilötietojen käsittelyyn, palveluiden tarjoamiseen ja
@@ -21,6 +21,7 @@ tavalla. Näistä voi lukea lisää kunkin alikäsittelijän verkkosivuilla.
 | :--------------------------------- | :---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------: |
 | Amazon Web Services, Inc.          | Kehitys, infrastruktuuri ja datan säilytys                  |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Cloudflare, Inc.                   | Infrastruktuuri                                             | EU ja Yhdysvallat. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
+| Enom, Inc.                         | Verkkotunnukset ja infrastruktuuri                          |       Yhdysvallat. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | Gandi SAS                          | Verkkotunnukset ja infrastruktuuri                          | EU ja Yhdysvallat. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
 | GitHub, Inc.                       | Sisäinen datan säilytys                                     |                                                                                                                             Yhdysvallat |
 | Google LLC                         | Kehitys, infrastruktuuri ja datan säilytys                  |                EU. Osa liikenteestä tuotteisiin käsitellään maailmanlaajuisesti loppukäyttäjää lähimpänä sijaitsevassa datakeskuksessa. |
